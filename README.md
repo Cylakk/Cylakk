@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cylakk
-- 👀 I’m interested in Cryptocurrency
-- 🌱 I’m currently learning trading
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on it
 - 📫 How to reach me @akujobicynthiaugochi@gmail.com
 
